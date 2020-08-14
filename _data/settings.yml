@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Tao Wang
 logo: logo.png
 email: steve.fruits@email.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: Peking University, Beijing, China
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,9 +35,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! Welcome <br> to my <br> Blog
 
 social:
+# - {icon: "ti-facebook", link: "#"}
 - {icon: "ti-facebook", link: "#"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
@@ -49,7 +50,8 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  I'm a first year CS master student in Peking University(PKU), Prof Hong liu is my tutor. Before entering PKU, I obtained my bachelor’s degree from Dalian Maritime University in 2020.
+  # Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
