@@ -3,15 +3,15 @@
 
 title: Tao Wang
 logo: logo.png
-email: steve.fruits@email.com
+email: taowang@stu.pku.edu.cn
 phone: +880 2544 658 256
-address: Peking University, Beijing, China
+address: Shenzhen Graduate School, Peking University, Shenzhen, China
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
